@@ -1,16 +1,6 @@
 # KVSpeedMultiplierApp
 KVSpeedMultiplierApp is a goal multiplier for getting strategies and systems to increase speed by getting others, apps,  AI agents, auto or at least semi auto systems multiplying one's efforts
 
-- Strategies
-- Tools
-- Resources
-- Human automators, gigs,
-- Automated software
-- Semi-Automated if can't be totally automated
-- Managers of automation.
-- Single Automated systems solid running then multiplied.
-- AI Agents, Multiple AI agents: setting up the systems
-- Strategies - user inputs what they want > gets strategies for automation with a focus on replication
-- Searches
-- Content aggregators of automation breakthroughs, products
-- Automation News:  pull in RSS feeds and summaries of news sources that deal with automaton possibilitie
+- User able to create "Speed Profiles" for things, skills, projects, businesses they want to increase their speed in.  And from the profile a speed plan is sent in to a user chose AI model at openrouter through the APi
+- Settings:  Have: API info. For openrouter call in latest  models,  have search, have sorting (a-z, latest, free at top). Allow user to create prompt presets for sending into an AI model which then creates a button in their speed profile to send in the prompt in context to the content in their Speed Profile.  Initial prompt preset basic formula examples (for personal skills ... to business:  "Please come up with strategies for helping increase my speed in:  (CurrentSpeedProfile}" "Please come up a step by step system for helping increase my speed in:  (CurrentSpeedProfile}"  "Please come up with method for helping multiply and duplicate to increase my speed in:  (CurrentSpeedProfile}" "Please come up with tools for helping increase my speed in:  (CurrentSpeedProfile}" "Please come up with strategies for automating:  (CurrentSpeedProfile}" "Please come up with ideas for increasing efficiency for:  (CurrentSpeedProfile}" Feel free to come up with some of your own prompt presets that you think are good. "Please come up with 82/20 and 99/1 (for extreme efficiency) idea for increasing performance and our output, and or return on input for:  (CurrentSpeedProfile}" "Please come up with strategies for getting more done in less time for:  (CurrentSpeedProfile}" 
+- Speed and Automation News Feed Ideas;  Start with a curated list of RSS news feeds from what you think is good and add to the app.  Have organized display or RSS news feeds. Content aggregators of automation breakthroughs, products. Automation News:  pull in RSS feeds and summaries of news sources that deal with automaton possibilities.  Pull in headline, summary that links to source. This will allow user to get new ideas for increasing speed, efficiency, creative ideas, cross correlation for problem solving. 
